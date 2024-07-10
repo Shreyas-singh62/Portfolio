@@ -1512,7 +1512,7 @@ header .logo a {
 	width: 9rem;
 	border-radius: 50%;
 	color: #ffffff;
-	margin: .9rem 0 0 0;
+	margin: .9rem 1rem .9rem -2rem;
 	float: left;
 }
 .intro-info .lead {
